@@ -1,7 +1,7 @@
 # TPSockets
 - Ce TP est pour objectif d'implémenter une petite application Client Serveur en utilisant l'interface Socket tout en se basant sur le mode connecté,
 autrement dit le protocole réseau TCP/IP. La socket s'agit d'une canal qui nous permettre en fait d'établir la communication le client et le serveur.
-- Ce travail est s'inspirer de la vidéo numéro 2 du playlist intitulé la programmation réseaux.
+- Ce travail est s'inspirer de la vidéo numéro 2 et 3 du playlist intitulé la programmation réseaux.
 
 # 1/ Classe ServerA:
 Voici l'ensemble d'instruction du code utilisé pour établir la classe serveur:
